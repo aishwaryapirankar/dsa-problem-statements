@@ -1,0 +1,14 @@
+Testing P015: Graphs
+Standard Case (Start 2): [2, 3, 0, 1]
+Base Case (Single Node): [0]
+Linear Case (Start 0): [0, 1, 2]
+
+Testing P016: Hashing
+Duplicates exist: True
+Base Case (Empty): False
+Edge Case (Unique): False
+
+Testing P017: Dynamic Programming
+Length of LIS: 4
+Base Case(One Element): 1
+Edge Case(Decreasing): 1
